@@ -1,0 +1,8 @@
+version: 1.12.0
+files:
+  - url: bioplayer2-x64.exe
+    sha512: youW7B9pzZ+qPKFFtYfrMq28nP6XATFjL2YbeUDJ9KaRhmXj4JCCKjB5H1R9QB2+hTvIOT4wUbTafjNgPhgBSA==
+    size: 105764268
+path: bioplayer2-x64.exe
+sha512: youW7B9pzZ+qPKFFtYfrMq28nP6XATFjL2YbeUDJ9KaRhmXj4JCCKjB5H1R9QB2+hTvIOT4wUbTafjNgPhgBSA==
+releaseDate: '2024-11-05T15:58:05.725Z'

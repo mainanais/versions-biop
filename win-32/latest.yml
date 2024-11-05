@@ -1,0 +1,8 @@
+version: 1.12.0
+files:
+  - url: bioplayer2-ia32.exe
+    sha512: j9ZmjyGjxmZ1osmKZi983MQfJgEa07OMfCZxuN6pjugkgog/nbalSiZUdSpsfXk/KJPMnBKPRliF47LohpifAA==
+    size: 100946518
+path: bioplayer2-ia32.exe
+sha512: j9ZmjyGjxmZ1osmKZi983MQfJgEa07OMfCZxuN6pjugkgog/nbalSiZUdSpsfXk/KJPMnBKPRliF47LohpifAA==
+releaseDate: '2024-11-05T15:58:05.695Z'

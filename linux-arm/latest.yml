@@ -1,0 +1,9 @@
+version: 1.12.0
+files:
+  - url: bioplayer2-armv7l.AppImage
+    sha512: eOlMuMjIj7hyMBD4AbH8q/vuR3c4kUeKdRK2Tk+k1IlCrP42G3Q3FdxlkVFpw4eDLnkZrIJ8fZeZz2kcnAx7jg==
+    size: 133227088
+    blockMapSize: 139592
+path: bioplayer2-armv7l.AppImage
+sha512: eOlMuMjIj7hyMBD4AbH8q/vuR3c4kUeKdRK2Tk+k1IlCrP42G3Q3FdxlkVFpw4eDLnkZrIJ8fZeZz2kcnAx7jg==
+releaseDate: '2024-11-05T15:57:21.610Z'
