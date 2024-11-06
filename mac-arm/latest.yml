@@ -1,8 +1,0 @@
-version: 1.12.0
-files:
-  - url: bioplayer2-arm64.dmg
-    sha512: iwY/XLAUtkb+au1l3lZb+EgIunisIfcv+T7BB3mJY4QK8Y/U9mWX+yKlGWWA4BmCLCMv01XqAKkmqjj/iw72pQ==
-    size: 133132484
-path: bioplayer2-arm64.dmg
-sha512: iwY/XLAUtkb+au1l3lZb+EgIunisIfcv+T7BB3mJY4QK8Y/U9mWX+yKlGWWA4BmCLCMv01XqAKkmqjj/iw72pQ==
-releaseDate: '2024-11-05T15:57:40.950Z'
